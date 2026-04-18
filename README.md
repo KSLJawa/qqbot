@@ -83,7 +83,7 @@ All core features are fully implemented and tested locally. The bot can:
 ---
 
 ## Demo
-[Click here to watch the demo video on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[Click here to watch the demo video on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/H4KngLi8UQU))  
 *Replace the link with your actual YouTube video URL*
 
 ---
