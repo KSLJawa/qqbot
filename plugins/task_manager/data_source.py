@@ -30,7 +30,7 @@ async def add_task(user_id: int, title: str) -> Task:
     db.refresh(task)
     return task
 
-# 获取用户所有任务
+# 获取用户所有添加任务
 async def get_tasks(user_id: int) -> List[Task]:
     db = next(get_db())
     user = await get_user(user_id)
