@@ -20,7 +20,7 @@ qq-task-bot/
         |-- __init__.py
         |-- config.py
         `-- data_source.py
-*Replace this with a real screenshot of your QQ bot in action*
+
 
 ```
 
