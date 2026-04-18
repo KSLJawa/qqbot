@@ -5,20 +5,21 @@
 ---
 
 ## Graphical Abstract
+```text
 qq-task-bot/
-├── .env
-├── .env.dev
-├── bot.py
-├── requirements.txt
-├── models/
-│ ├── init.py
-│ └── models.py
-└── plugins/
-├── init.py
-└── task_manager/
-├── init.py
-├── config.py
-└── data_source.py
+|-- .env
+|-- .env.dev
+|-- bot.py
+|-- requirements.txt
+|-- models/
+|   |-- __init__.py
+|   `-- models.py
+`-- plugins/
+    |-- __init__.py
+    `-- task_manager/
+        |-- __init__.py
+        |-- config.py
+        `-- data_source.py
 *Replace this with a real screenshot of your QQ bot in action*
 
 ---
