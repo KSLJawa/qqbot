@@ -22,7 +22,7 @@ qq-task-bot/
         `-- data_source.py
 *Replace this with a real screenshot of your QQ bot in action*
 
----
+```
 
 ## Purpose
 
