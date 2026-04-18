@@ -5,7 +5,20 @@
 ---
 
 ## Graphical Abstract
-![Graphical Abstract](https://via.placeholder.com/800x400?text=Screenshot+of+QQ+Chat+with+Bot)  
+qq-task-bot/
+├── .env
+├── .env.dev
+├── bot.py
+├── requirements.txt
+├── models/
+│ ├── init.py
+│ └── models.py
+└── plugins/
+├── init.py
+└── task_manager/
+├── init.py
+├── config.py
+└── data_source.py
 *Replace this with a real screenshot of your QQ bot in action*
 
 ---
