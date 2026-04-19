@@ -28,7 +28,7 @@ qq-task-bot/
         `-- data_source.py
 
 
-````
+```
 ## Core Features
 - ✅ 用户自动注册（通过QQ号）
 - ✅ 添加新任务
