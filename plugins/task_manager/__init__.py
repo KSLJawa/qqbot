@@ -28,7 +28,7 @@ async def handle_add(event: MessageEvent, arg: Message = CommandArg()):
     user_id = event.user_id
     title = arg.extract_plain_text().strip()
     if not title:
-        await add_cmd.finish("请输入任务标题，如：/add 完成软件工程作业")
+        await add_cmd.finish("请输入任务标题，例如：/add 完成软件工程作业")
 
     task = await add_task(user_id, title)
     await add_cmd.finish(f"✅ 任务已添加：{task.title}")
