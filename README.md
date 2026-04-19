@@ -2,6 +2,12 @@
 > COMP2116 Software Engineering Final Project  
 > Macao Polytechnic University
 
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green.svg)
+![NoneBot2](https://img.shields.io/badge/NoneBot2-2.3+-purple.svg)
+![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)
+
 ---
 
 ## Graphical Abstract
@@ -23,7 +29,14 @@ qq-task-bot/
 
 
 ```
-
+## Core Features
+- ✅ 用户自动注册（通过QQ号）
+- ✅ 添加新任务
+- ✅ 查看所有任务（区分已完成/未完成）
+- ✅ 标记任务完成
+- ✅ 删除任务
+- ✅ 数据持久化存储
+  
 ## Purpose
 
 ### Software Development Process
