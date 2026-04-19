@@ -141,8 +141,11 @@ All core features are fully implemented and tested locally. The bot can:
 ## Declaration
 This project uses the following open-source projects:
 - **NoneBot2** (MIT License): https://github.com/nonebot/nonebot2
+- 
 - **go-cqhttp** (AGPL-3.0 License): https://github.com/Mrs4s/go-cqhttp
+- 
 - **FastAPI** (MIT License): https://github.com/tiangolo/fastapi
+- 
 - **SQLAlchemy** (MIT License): https://github.com/sqlalchemy/sqlalchemy
 
 All third-party code has been properly declared in this document.
